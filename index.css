@@ -1,0 +1,205 @@
+body {
+    margin-left: 32em;
+    margin-right: 2em;
+    margin-top: 1em;
+}
+
+#chess1 {
+    display: flex;
+}
+
+#chess2 {
+    display: flex;
+}
+
+#chess3 {
+    display: flex;
+}
+
+#chess4 {
+    display: flex;
+}
+
+#chess5 {
+    display: flex;
+}
+
+#chess6 {
+    display: flex;
+}
+
+#chess7 {
+    display: flex;
+}
+
+#chess8 {
+    display: flex;
+}
+
+
+/*width table 1 */
+
+.a1,
+.c1,
+.e1,
+.g1 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
+
+.b1,
+.d1,
+.f1,
+.h1 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+
+/*width table 2 */
+
+.a2,
+.c2,
+.e2,
+.g2 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+.b2,
+.d2,
+.f2,
+.h2 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
+
+
+/*width table 3 */
+
+.a3,
+.c3,
+.e3,
+.g3 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
+
+.b3,
+.d3,
+.f3,
+.h3 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+
+/*width table 4 */
+
+.a4,
+.c4,
+.e4,
+.g4 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+.b4,
+.d4,
+.f4,
+.h4 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
+
+
+/*width table 5 */
+
+.a5,
+.c5,
+.e5,
+.g5 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
+
+.b5,
+.d5,
+.f5,
+.h5 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+
+/*width table 6 */
+
+.a6,
+.c6,
+.e6,
+.g6 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+.b6,
+.d6,
+.f6,
+.h6 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
+
+
+/*width table 7 */
+
+.a7,
+.c7,
+.e7,
+.g7 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
+
+.b7,
+.d7,
+.f7,
+.h7 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+
+/*width table 8 */
+
+.a8,
+.c8,
+.e8,
+.g8 {
+    width: 7em;
+    height: 7em;
+    background-color: #f2f2f2;
+}
+
+.b8,
+.d8,
+.f8,
+.h8 {
+    width: 7em;
+    height: 7em;
+    background-color: #000000;
+}
