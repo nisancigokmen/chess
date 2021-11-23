@@ -9,7 +9,7 @@
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
 <hr>
 <div>
-<img src="https://media0.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif?cid=ecf05e47dxgcnb2o5wr70u7j6jk7kousc54qvgmojcfftlpk&rid=giphy.gif&ct=g">
+<img src="https://media1.giphy.com/media/CzXxxMCFZwBymfYcor/giphy.gif?cid=ecf05e475679gmd72hwnkkqclijflu6ae8ob090i3pjtbouz&rid=giphy.gif&ct=g">
 </div><br>
 
 
