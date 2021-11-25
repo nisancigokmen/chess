@@ -14,6 +14,8 @@
 <img src="https://media1.giphy.com/media/CzXxxMCFZwBymfYcor/giphy.gif?cid=ecf05e475679gmd72hwnkkqclijflu6ae8ob090i3pjtbouz&rid=giphy.gif&ct=g">
 </div><br>
 
+
 &copy; Gökmen Nişancı / Web Developer.
 
-    <p> &#128151 thank you for giving a time &#128151 </p> 
+ <p> &#128151 thank you for giving a time &#128151 </p>
+ 
