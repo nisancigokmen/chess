@@ -11,7 +11,6 @@
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
 <hr>
 
-
 <div>
   
 <img src="https://media1.giphy.com/media/CzXxxMCFZwBymfYcor/giphy.gif?cid=ecf05e475679gmd72hwnkkqclijflu6ae8ob090i3pjtbouz&rid=giphy.gif&ct=g">
