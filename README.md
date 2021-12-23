@@ -19,5 +19,5 @@
 
 &copy; Gökmen Nişancı / Web Developer.
 
- <p> &#128151 thank you for giving a time &#128151 </p>
+ <p> &#128151 thank you . &#128151 </p>
  
