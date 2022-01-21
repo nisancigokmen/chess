@@ -1,7 +1,5 @@
 # Chess
 
-
-
   ![chessInterface](https://user-images.githubusercontent.com/91744618/143071111-80d253bf-73fd-487c-8b9f-daa5c5144435.png)
 
 
