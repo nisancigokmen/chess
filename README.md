@@ -3,12 +3,12 @@
   ![chessInterface](https://user-images.githubusercontent.com/91744618/143071111-80d253bf-73fd-487c-8b9f-daa5c5144435.png)
 
 
-<div id="contact"><br>
-
- <h2> Connect with me: </h2>
+<div id="contact">
+ 
+<h2> Connect with me: </h2>
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
-   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://alanyavitahomes.com/SiteFolder/img/email.png" width="72px"> </a> 
+   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
  
  </div>
 
@@ -34,3 +34,6 @@
 <img src="https://media1.giphy.com/media/CzXxxMCFZwBymfYcor/giphy.gif?cid=ecf05e475679gmd72hwnkkqclijflu6ae8ob090i3pjtbouz&rid=giphy.gif&ct=g">
   
 </div><br>
+  <br> <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
