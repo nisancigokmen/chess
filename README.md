@@ -10,7 +10,6 @@
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
  
  </div>
-
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
@@ -25,7 +24,6 @@
  
 <br>
 
-  
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
